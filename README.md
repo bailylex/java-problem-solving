@@ -1,5 +1,5 @@
-# java-problem-solving
-I will put here all exercises and tasks on subject of a Java programming
+# Java problem solving && tasks
+I will put here most of exercises and tasks on the subject of a Java programming which I have done.
 
 # Running the tests
 
